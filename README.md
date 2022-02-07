@@ -29,12 +29,7 @@ git clone https://github.com/MaRuF-CoDe/Weather-App.git
 npm install
 ```
 <ul>
-  
-<h2>Initial Command To Run The App :</h2> 
-
-    <li>
-     <b>To know current weather status of a specific place : </b>node app.js Dhaka
-    </li>
- 
+    <h2>Initial Command To Run The App :</h2> 
+    <li><b>To know current weather status of a specific place : </b>node app.js Dhaka</li>
 </ul>
 
